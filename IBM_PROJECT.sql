@@ -18,6 +18,8 @@ FROM ibm_hr_attrition;
 SELECT *
 FROM attrition_staging2;
 
+DESCRIBE attrition_staging2;
+
 -- REMOVE IRRELEVANT COLUMNS
  
 ALTER TABLE attrition_staging2
