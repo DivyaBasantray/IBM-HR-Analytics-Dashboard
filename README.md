@@ -56,7 +56,7 @@
 👩‍💻 **Created by:** [Divya Basantray](https://github.com/DivyaBasantray)  
 📅 **Tools Used:** SQL | Python | Power BI  
 📊 **Project Type:** HR Analytics | Data Visualization  
-📦 **Dataset Source:**  [IBM HR Analytics Employee Attrition & Performance Dataset on Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-employee-attrition-performance)
+📦 **Dataset Source:**  https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset))
 
 
 ##  💼 **6. Screenshots/Demos**
