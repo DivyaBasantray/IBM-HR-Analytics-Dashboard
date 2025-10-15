@@ -62,4 +62,4 @@ IBM wanted to understand why employees are leaving the company and what can be d
 6. Screenshots/Demos
 
   Here's a preview of the dashboard:
-  https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard/raw/main/Sanpshot%20of%20IBM%20HR%20Analytics%20Dashboard.png
+![IBM HR Analytics Dashboard](https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard/raw/main/Sanpshot%20of%20IBM%20HR%20Analytics%20Dashboard.png)
